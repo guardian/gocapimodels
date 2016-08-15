@@ -4,8 +4,8 @@ Generated code for Content API models for Go.
 The current release is from:
 
 - [content-api-models v9.18](https://github.com/guardian/content-api-models/releases/tag/v9.18)
-- [story-packages-model](https://github.com/guardian/story-packages-model/releases/tag/v1.0.3)
-- [content-atom](https://github.com/guardian/content-atom/releases/tag/v2.4.3)
+- [story-packages-model v1.0.3](https://github.com/guardian/story-packages-model/releases/tag/v1.0.3)
+- [content-atom v2.4.3](https://github.com/guardian/content-atom/releases/tag/v2.4.3)
 
 ##Details
 
