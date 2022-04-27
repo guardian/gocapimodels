@@ -1,4 +1,4 @@
-#gocapimodels
+# gocapimodels
 Generated code for Content API models for Go.
 
 The current release is from:
@@ -7,7 +7,7 @@ The current release is from:
 - [story-packages-model v1.0.3](https://github.com/guardian/story-packages-model/releases/tag/v1.0.3)
 - [content-atom v2.4.3](https://github.com/guardian/content-atom/releases/tag/v2.4.3)
 
-##Details
+## Details
 
 This package was created as follows:
 
@@ -15,6 +15,6 @@ This package was created as follows:
 
 The source `Thrift` can be found in `/thrift` in this repo.
 
-##Warning
+## Warning
 
 Some fields are missing from `Content` as they used reserved words - specifically "end".
